@@ -1,0 +1,15 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+@import 'variables';
+@import 'bootstrap';
+@import 'bootswatch';
+
+body {
+  padding-top: 50px;
+  position: relative;
+}
+// footer {
+//   height: 100px;
+//   background-color: $brand-primary;
+// }
