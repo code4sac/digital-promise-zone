@@ -1,4 +1,4 @@
 ---
 layout: goal
-permalink: /goals/economy/
+title: Economy
 ---

@@ -1,4 +1,13 @@
 # Specify directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _scss
-  # style:            :compressed
+  sass_dir: _scss
+  # style: :compressed
+
+# Permalinks
+permalink: pretty
+
+# Collections
+collections:
+  goals:
+    output: true
+    permalink: /goals/:path/
