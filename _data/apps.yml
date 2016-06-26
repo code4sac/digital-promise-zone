@@ -1,6 +1,9 @@
 - name: Data Sharing
-  description: The data sharing app allows organizations to create and update profiles, along with reporting key metrics.
-- name: Resource Mapper
-  description: The resource mapper is a directory of organizations that can be queried by categories or topics.
+  icon: edit
+  description: The data sharing app enables Promise Zone partner organizations to report key metrics and progress toward shared goals.
+- name: Partner Directory
+  icon: sitemap
+  description: The partner directory is a catalog of Promise Zone partner organizations that can be queried by goals or topics.
 - name: Performance Dashboard
-  description: The performance dashboard visually depicts linkages between inputs, outputs, and outcomes.
+  icon: bar-chart
+  description: The performance dashboard is a data-driven tool for visualizing the connection between Promise Zone inputs, outputs, and outcomes.

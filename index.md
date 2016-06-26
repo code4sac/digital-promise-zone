@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include apps.html %}
+{% include home.html %}

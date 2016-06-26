@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="jumbotron">
+    <h1>A Digital Platform for Collective Impact <i class="fa fa-rocket"></i></h1>
+    <p>Code for Sacramento in partnership with the Mayor's Office for Innovation & Entrepreneurship is prototyping new digital tools for frictionless data sharing and collaboration to measurably improve quality of life in Sacramento's Promise Zone.</p>
+    <p><a class="btn btn-success btn-lg" href="mailto:pz@codeforsacramento.org?subject=Promise%20Zone%20Platform%20Invite%20Request" target="_blank"><i class="fa fa-envelope"></i> Request Invite</a></p>
+  </div>
+  <div class="row">
+    {% for app in site.data.apps %}
+    <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">
+          <h3 class="panel-title"><i class="fa fa-{{ app.icon }}"></i> {{ app.name }}</h3>
+        </div>
+        <div class="panel-body">
+          <p>{{ app.description }}</p>
+          <a href="/{{ app.name | slugify }}" class="btn btn-primary btn-xs btn-block">Preview Feature <i class="fa fa-arrow-circle-right"></i></a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
