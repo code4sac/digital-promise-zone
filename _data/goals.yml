@@ -1,0 +1,20 @@
+- id: 1
+  name: Create jobs
+  slug: workforce
+  description: "Accelerate Job Creation: The Promise Zone partners will accelerate job creation by aligning job creation with the Next Economy Capital Region Prosperity Plan which identifies priority business clusters as opportunities for economic growth."
+- id: 2
+  name: Health and wellness
+  slug: health
+  description: "Promote Healthy Behaviors and Increase Health Interventions"
+- id: 3
+  name: Increase economic activity
+  slug: economy
+  description: "Promote a sustainable economic base: Invest in Building the Promise Zone _ Facilitate and promote projects and program initiatives that support economic growth, quality of life, and job creation in key areas of the Promise Zone."
+- id: 4
+  name: Improve educational opportunities
+  slug: education
+  description: "Increase educational opportunities for all Promise Zone students along the education spectrum _ from PreK to higher education."
+- id: 5
+  name: Sustainable communities
+  slug: sustainability
+  description: "Promote a sustainably built community: Facilitate neighborhood revitalization by creating destinations that are desirable for both living and working."

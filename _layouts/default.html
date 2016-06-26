@@ -42,8 +42,8 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
-            {% for item in site.data.navigation %}
-              <li><a href="#{{ navitem.slug }}">{{ item.name }}</a></li>
+            {% for goal in site.data.goals %}
+              <li><a href="/{{ goal.slug }}">{{ goal.slug | capitalize }}</a></li>
             {% endfor %}
           </ul>
         </div><!--/.nav-collapse -->
