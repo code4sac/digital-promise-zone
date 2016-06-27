@@ -9,7 +9,11 @@ body {
   padding-top: 75px;
   position: relative;
 }
-// footer {
-//   height: 100px;
-//   background-color: $brand-primary;
-// }
+.footer {
+  height: 100px;
+  color: #fff;
+  background-color: $brand-primary;
+}
+.footer .container {
+  padding-top: 35px;
+}
