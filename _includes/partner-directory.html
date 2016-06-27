@@ -1,0 +1,80 @@
+<div class="container">
+  <h1>Partner Directory</h1>
+  <hr>
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#government" data-toggle="tab">Government Agencies</a></li>
+    <li><a href="#jobs" data-toggle="tab">Jobs</a></li>
+    <li><a href="#health" data-toggle="tab">Health</a></li>
+    <li><a href="#economy" data-toggle="tab">Economy</a></li>
+    <li><a href="#education" data-toggle="tab">Education</a></li>
+    <li><a href="#sustainability" data-toggle="tab">Sustainability</a></li>
+  </ul>
+  <div id="myTabContent" class="tab-content">
+    <div class="tab-pane fade active in" id="government">
+      <ul class="list-group">
+      {% for partner in site.data.partners %}
+        {% if partner.category == 'government' %}
+          <li class="list-group-item">
+            {{ partner.name }}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="tab-pane fade" id="jobs">
+      <ul class="list-group">
+      {% for partner in site.data.partners %}
+        {% if partner.category == 'jobs' %}
+          <li class="list-group-item">
+            {{ partner.name }}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="tab-pane fade" id="health">
+      <ul class="list-group">
+      {% for partner in site.data.partners %}
+        {% if partner.category == 'health' %}
+          <li class="list-group-item">
+            {{ partner.name }}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="tab-pane fade" id="economy">
+      <ul class="list-group">
+      {% for partner in site.data.partners %}
+        {% if partner.category == 'economy' %}
+          <li class="list-group-item">
+            {{ partner.name }}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="tab-pane fade" id="education">
+      <ul class="list-group">
+      {% for partner in site.data.partners %}
+        {% if partner.category == 'education' %}
+          <li class="list-group-item">
+            {{ partner.name }}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="tab-pane fade" id="sustainability">
+      <ul class="list-group">
+      {% for partner in site.data.partners %}
+        {% if partner.category == 'sustainability' %}
+          <li class="list-group-item">
+            {{ partner.name }}
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
