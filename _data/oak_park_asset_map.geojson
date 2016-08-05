@@ -1,0 +1,2058 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.44261359999999,
+                            38.525002900000004,
+                            0
+                        ],
+                        [
+                            -121.4475918,
+                            38.5357459,
+                            0
+                        ],
+                        [
+                            -121.4537716,
+                            38.5468229,
+                            0
+                        ],
+                        [
+                            -121.4564323,
+                            38.55313259999999,
+                            0
+                        ],
+                        [
+                            -121.46338460000001,
+                            38.5609184,
+                            0
+                        ],
+                        [
+                            -121.4712811,
+                            38.5590392,
+                            0
+                        ],
+                        [
+                            -121.47394180000002,
+                            38.5536696,
+                            0
+                        ],
+                        [
+                            -121.4737701,
+                            38.53762570000001,
+                            0
+                        ],
+                        [
+                            -121.47316930000001,
+                            38.5354773,
+                            0
+                        ],
+                        [
+                            -121.46776200000001,
+                            38.525002900000004,
+                            0
+                        ],
+                        [
+                            -121.44261359999999,
+                            38.525002900000004,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Oak Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44524600000001,
+                    38.527648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Access Dental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45623200000001,
+                    38.551935,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crestwood Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.460512,
+                    38.55661569999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gateway Foundation",
+                "description": "www.gatewayforwomen.org"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46046199999999,
+                    38.541501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Joan Viteri Memorial Clinic",
+                "description": "https://myhs.ucdmc.ucdavis.edu/web/joan-viteri-memorial-clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44700999999999,
+                    38.524681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Noble Dental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4714167,
+                    38.5262983,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Planned Parenthood: Fruitridge Health Center\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45624529999998,
+                    38.5480501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "River Oak Center for Children: Dunlap House\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46145899999999,
+                    38.55744380000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento County Mental Health Treatment Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.452691,
+                    38.546361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento County Primary Health Services",
+                "description": "http://www.dhhs.saccounty.net/PRI/Pages/Clinic-Services/SP-Clinic-Services.aspx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.455353,
+                    38.552964,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shriners Hospitals for Children"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.456285,
+                    38.55484400000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UC Davis Medical Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4615548,
+                    38.5583152,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "University Post Acute Rehab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4641786,
+                    38.543609,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WellSpace Health Clinic: Oak Park",
+                "description": "http://www.wellspacehealth.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46272480000002,
+                    38.5437013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Head Start and Early Head Start",
+                "description": "Women's Civic Improvement Club of Sacramento "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46790399999999,
+                    38.55232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park Pre-School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.465057,
+                    38.53740030000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Triumph Preschool - St. Hope\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.464157,
+                    38.535509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Christian Brothers High School",
+                "description": "Roman Catholic Diocese of Sacramento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46361899999998,
+                    38.533987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Ridge Elementary School",
+                "description": "Sacramento City Unified School District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.464357,
+                    38.547830000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "American Legion High School",
+                "description": "Sacramento City Unified School District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.464357,
+                    38.547830000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "American Legion High School",
+                "description": "Sacramento City Unified School District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46665100000001,
+                    38.556058,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Charter High School",
+                "description": "Sacramento City Unified School District (charter school)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47055699999999,
+                    38.55536,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aspire Capitol Heights Academy",
+                "description": "Aspire Public Schools. K-5 school"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47662100000002,
+                    38.53324,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ethel Phillips Elementary School",
+                "description": "Sacramento City Unified School District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47723100000002,
+                    38.54417,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bret Harte Elementary School",
+                "description": "Sacramento City Unified School District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.452601,
+                    38.521808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ethel I. Baker Elementary School",
+                "description": "Sacramento City Unified School District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.466349,
+                    38.527556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. HOPE Public School (PS7)",
+                "description": "Sacramento City Unified School District (charter school). K-8 school"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45280100000004,
+                    38.544235,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "William Lee College Prep",
+                "description": "Charter school. K-5 school"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46615140000002,
+                    38.5561111,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park Preparatory Academy",
+                "description": "Sacramento City Unified School District (charter school). 7-8 school"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.463964,
+                    38.5426545,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Father Keith B Kenny",
+                "description": "Sacramento City Unified School District. K-8 school"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45112019999999,
+                    38.5488481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Language Academy of Sacramento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.43554089999998,
+                    38.5457024,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tahoe Elementary School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47260599999997,
+                    38.549107,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McGeorge School of Law",
+                "description": "University of the Pacific"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.452631,
+                    38.552992,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UC Davis School Of Medicine",
+                "description": "University of California, Davis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47111000000001,
+                    38.526992,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Joseph E. Rooney Police Facility",
+                "description": "Sacramento Police Department"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.463449,
+                    38.5434958,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park Community Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.493545,
+                    38.581898,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento City Council"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46470870000003,
+                    38.544562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SFD Station 6",
+                "description": "Sacramento Fire Department"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46489600000002,
+                    38.571056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SFD Station 4",
+                "description": "Sacramento Fire Department"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.42612700000001,
+                    38.523903,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SFD Station 10",
+                "description": "Sacramento Fire Department"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.48361699999998,
+                    38.533854,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SFD Station 12",
+                "description": "Sacramento Fire Department"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46049499999998,
+                    38.524232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fruitridge Community Center",
+                "description": "Southgate Recreation & Park District"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46888999999999,
+                    38.549915,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "US Post Office"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44536299999999,
+                    38.532525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Colonial Heights Library",
+                "description": "Sacramento Public Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4354682,
+                    38.5435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tahoe Park\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44401099999999,
+                    38.534764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Colonial Playground"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47959000000003,
+                    38.544428,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Curtis Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.459723,
+                    38.547873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fourth Avenue Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46025800000001,
+                    38.522952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fruitridge Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45606299999999,
+                    38.537178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jack Davis Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45026539999999,
+                    38.5283008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lawrence Playground"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46951400000002,
+                    38.547465,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McClatchy Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46311500000003,
+                    38.543452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47578900000002,
+                    38.533296,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Phillips School Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46543600000003,
+                    38.557435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento School Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.469988,
+                    38.539401,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Temple Avenue Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.440975,
+                    38.530478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Twain School Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46065199999998,
+                    38.541056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Better Trade Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.464788,
+                    38.546496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boss Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.464989,
+                    38.53296,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Charan Budwal Grocery",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.455713,
+                    38.547463,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Food Source",
+                "description": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.43999200000002,
+                    38.520954,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Goldstar Supermarket",
+                "description": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47307799999999,
+                    38.529579,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harvest Foods",
+                "description": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45563099999998,
+                    38.539125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Home Cash Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47439700000001,
+                    38.533228,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Superior Mercados: Franklin Boulevard",
+                "description": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44576200000002,
+                    38.530742,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Superior Mercados: Stockton Boulevard",
+                "description": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.470963,
+                    38.540905,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46484599999998,
+                    38.53885,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Prit Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45813699999997,
+                    38.532222,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sam's Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47536300000002,
+                    38.557432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smart & Final",
+                "description": "Supermarket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.460395,
+                    38.550532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Serv-Rite Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46505000000002,
+                    38.543764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stanford Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45934999999997,
+                    38.53815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tony's Market",
+                "description": "Convenience store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.453036,
+                    38.55202,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "UC Davis Health System Farmers' Market",
+                "description": "Farmers' market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47711400000004,
+                    38.526681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Century Chapel CME - Food Bank Distribution Site\n",
+                "description": "SFBFS food distribution site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46042850000003,
+                    38.5241713,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fruit Ridge Community Collaborative",
+                "description": "http://www.fruitridgecc.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.453132,
+                    38.535681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glory Bound Street Ministry",
+                "description": "http://sacramento.networkofcare.org/veterans/services/agency.aspx?pid=GloryBoundStreetMinistry_867_17_0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45511199999999,
+                    38.549138,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harm Reduction Services",
+                "description": "http://harmreductionservices.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46752200000003,
+                    38.549785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park United Methodist Church",
+                "description": "SFBFS food distribution site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4632693,
+                    38.543544,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Our Kids' Community Breakfast Club",
+                "description": "www.okcbc.org"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.471489,
+                    38.5495301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pacific McGeorge School of Law: Victims of Crime Resource Center",
+                "description": "http://www.1800victims.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47695540000001,
+                    38.5333378,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parker Family Resource Center",
+                "description": "Sacramento City Unified School District - Connect Center. http://www.scusd.edu/department/parker-family-resource-center-homeless-services-office"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46133829999997,
+                    38.52588470000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RHF Communities: Diakonia Housing I (Mendocino Plaza) ",
+                "description": "http://www.rhf.org/rhfcms/CommunityView.aspx?id=434"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46409319999998,
+                    38.5434392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento County Primary Health Services: WIC Program",
+                "description": "http://www.dhhs.saccounty.net/PRI/WIC/Pages/Women-Infants-and-Children-Home.aspx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44585299999999,
+                    38.530026,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Employment and Training Agency",
+                "description": "www.seta.net"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47031600000003,
+                    38.552532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Food Bank & Family Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.471808,
+                    38.55681269999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Works Training Centers: Alhambra Boulevard ",
+                "description": "http://sacramentoworks.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4698922,
+                    38.5265666,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Works Training CentersSite: La Famila Counseling Center",
+                "description": "http://sacramentoworks.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4680512,
+                    38.5441556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shiloh Baptist Church\n",
+                "description": "SFBFS food distribution site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44977340000004,
+                    38.5337087,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Matthew Christian Church\n",
+                "description": "SFBFS food distribution site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46981199999999,
+                    38.550649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wellspring Women's Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4638883,
+                    38.5345334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Williams Memorial",
+                "description": "SFBFS food distribution site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46726600000001,
+                    38.551658,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Women's Civic Improvement Club: All Seasons Cafe by ACC",
+                "description": "Meals on Wheels by ACC. http://mowsac.org/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46821899999998,
+                    38.554907,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Blessed Faith Ministries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46189900000003,
+                    38.547128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "All Nations Church of God in Christ",
+                "description": "Church of God in Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46717699999998,
+                    38.548239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bethel Church of God in Christ",
+                "description": "Church of God in Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.449883,
+                    38.537386,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central International Fellowship"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47106600000002,
+                    38.551017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Church of the Holy Trinity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47011500000002,
+                    38.554054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "El Shaddai World Evangelism"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45126599999999,
+                    38.5419,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "First Tabernacle Fellowship",
+                "description": "\"Hebraic Learning Institution\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46606600000001,
+                    38.544073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Friendship Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45339499999999,
+                    38.538545,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greater Bethlehem Temple Church",
+                "description": "Apostolic Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45023200000003,
+                    38.54074,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greater Faith Church of God",
+                "description": "Church of God"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45777499999998,
+                    38.527468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greater Hill Zion Missionary Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47143699999998,
+                    38.552266,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greater Holy Temple Church",
+                "description": "Church of God in Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46745399999999,
+                    38.539073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greater Light Missionary Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45566700000002,
+                    38.535084,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia de Dios de Sacramento",
+                "description": "Church of God"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45733,
+                    38.531296,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iglesia Ni Cristo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.470306,
+                    38.554778,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Immaculate Conception Parish",
+                "description": "Catholic Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46160099999997,
+                    38.541464,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kingdom Hall of Jehovah's Witnesses",
+                "description": "Jehovah's Witnesses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.458121,
+                    38.547502,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kyle's Temple AME Zion Church",
+                "description": "African Methodist Episcopal Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46506399999997,
+                    38.536923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mt. Marriah Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46507099999998,
+                    38.531565,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mt. Pilgrim Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46051000000001,
+                    38.544351,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nash Temple Church of God in Christ",
+                "description": "Church of God in Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47273200000002,
+                    38.541017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Hope Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45759900000003,
+                    38.544702,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New St Bethel Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47134299999999,
+                    38.552128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park Christian Fellowship Church",
+                "description": "Assembly of God"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46752200000003,
+                    38.549785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Park United Methodist Church",
+                "description": "United Methodist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45984799999997,
+                    38.55265,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Philadelphia Church-God-Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46757800000002,
+                    38.53739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pleasant Hill Christian Praise",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47554200000003,
+                    38.553034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Praise & Worship",
+                "description": "Church of God in Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45745399999998,
+                    38.544906,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rising Star Church of God in Christ",
+                "description": "Church of God in Christ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.470232,
+                    38.551573,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "River City Metropolitan Community Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46876500000003,
+                    38.548353,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Samoan SDA Church",
+                "description": "Seventh-day Adventist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46384300000001,
+                    38.549628,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Seventh-day Adventist Church",
+                "description": "Seventh-day Adventist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44974500000001,
+                    38.533771,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Matthew Christian Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46086600000001,
+                    38.539175,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Paul Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.45564600000002,
+                    38.526416,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Stephen the First Martyr",
+                "description": "Catholic Church (Priestly Fraternity of St. Peter)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.463286,
+                    38.539178,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Templo Calvario",
+                "description": "Assembly of God"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.468843,
+                    38.548239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Temple of Prayer Pentecostal Church",
+                "description": "Pentecostal Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47492799999998,
+                    38.541997,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Church of Jesus Christ of Latter-day Saints",
+                "description": "Church of Jesus Christ of Latter-day Saints"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46771799999999,
+                    38.550409,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tongan United Methodist Church",
+                "description": "United Methodist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46831700000001,
+                    38.550336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "United House of Prayer",
+                "description": "United House of Prayer for All People"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.47104900000001,
+                    38.550866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unity Missionary Baptist Church",
+                "description": "Baptist Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.44869599999998,
+                    38.52474,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Universal Church"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.46368899999999,
+                    38.534519,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Williams Church of God In Christ",
+                "description": "Church of God In Christ"
+            }
+        }
+    ]
+}
